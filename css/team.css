@@ -1,4 +1,4 @@
-#team {
+.section-team {
     background-color: #f4f4fd;;
 }
 
@@ -9,6 +9,10 @@ line-height: 1.11111;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+}
+
+.li-team{
+ color: #fff;
 }
 
 .h3-team {

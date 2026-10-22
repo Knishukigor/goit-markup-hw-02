@@ -21,11 +21,12 @@ color: #4d5ae5;
 }
 .navigation:hover,
 .navigation:focus {
-    color: #4d5ae5;
+    color: #404bbf;
 }
 
 .address {
 font-weight: 400;
+font-style: normal;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
